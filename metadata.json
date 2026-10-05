@@ -1,0 +1,6 @@
+{
+  "name": "Shivani Graphics - Official Digital Printing & Branding Portal",
+  "description": "High-converting digital printing catalog, custom signage, stationery, corporate gifting, and instant WhatsApp ordering for Shivani Graphics Delhi NCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
